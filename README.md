@@ -4,7 +4,7 @@
 
 <img src="https://giphy.com/stickers/devrock-python-django-edr-LMt9638dO8dftAjtco" width="15%"/>
 
-<img src="https://giphy.com/stickers/devrock-code-edr-escueladevrock-IdyAQJVN2kVPNUrojM" width="15%"/>
+<img src="https://media3.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif?cid=790b7611a9e4c9e64e050470fe913f341a20f6a038f13718&rid=giphy.gif&ct=s" width="15%"/>
 
 </div>
 
