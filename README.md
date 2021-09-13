@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://giphy.com/stickers/devrock-python-django-edr-LMt9638dO8dftAjtco" width="15%"/>
+<img src="https://media3.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif?cid=790b76113ffd0c9c79825e1824118dbf2b03d43a60127f0e&rid=giphy.gif&ct=s" width="15%"/>
 
 <img src="https://media3.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif?cid=790b7611a9e4c9e64e050470fe913f341a20f6a038f13718&rid=giphy.gif&ct=s" width="15%"/>
 
